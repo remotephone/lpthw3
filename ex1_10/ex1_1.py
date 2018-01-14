@@ -1,0 +1,8 @@
+#print("Hello World")
+#print("Hello again!")
+#print("I like typing this.")
+#print("This is fun.")
+#print('Ya! Printing!')
+#print("I'd much rather you 'not'.")
+#print('I "said" do not touch this.')
+print('This is a new line and the only one')
